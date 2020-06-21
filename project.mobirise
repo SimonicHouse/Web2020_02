@@ -39,22 +39,24 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "siteUrl": "http://www.smewebschool.com",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "SME WEB SCHOOL : สอนทำเว็ปไซด์ Landing Page และ  Resposive Web Desige",
-        "meta_descr": "สอนทำเว็ป LandingPage\nเรียนทำเว็ปไซด์ เป็นได้ใน 3 ชั่วโมง  ด้วยหลังสูตร Web Desige Essential Course",
+        "title": "SME Webschool : สอนทำเว็ปไซด์ Landing Page และ  Responsive Web Desige",
+        "meta_descr": "#สอนทำเว็ป #LandingPage  #Responsive #WebDesige\nเรียนทำเว็ปไซด์ เป็นได้ใน 3 ชั่วโมง  ด้วยหลังสูตร Web Desige Essential Course",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/clip-3-200x200.jpg"
       },
       "components": [
         {
