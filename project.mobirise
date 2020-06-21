@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-20_2137",
+    "name": "SMEWEBSCHOOL_Site-06-20_2137",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,14 +37,21 @@
     "imageResize": true,
     "uniqCompNum": 27,
     "versionPublish": "4.12.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "SME WEB SCHOOL : สอนทำเว็ปไซด์ Landing Page และ  Resposive Web Desige",
+        "meta_descr": "สอนทำเว็ป LandingPage\nเรียนทำเว็ปไซด์ เป็นได้ใน 3 ชั่วโมง  ด้วยหลังสูตร Web Desige Essential Course",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
